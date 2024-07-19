@@ -1,0 +1,273 @@
+[
+    {
+        "id": 1,
+        "name": "Hinata Shouyou",
+        "price": 520,
+        "image": "anime-hinata.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Itadori Yuji",
+        "price": 220,
+        "image": "anime-itadori.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Midoriya Izuku",
+        "price": 250,
+        "image": "anime-midoriya.jpg"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Sailor Moon",
+        "price": 420,
+        "image": "anime-sailor-moon.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Tanjiro Kamado",
+        "price": 120,
+        "image": "anime-tanjiro.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Hua Cheng",
+        "price": 120,
+        "image": "danmei-hua-cheng.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Lan Zhan",
+        "price": 226,
+        "image": "danmei-lan-zhan.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Luo Binghe",
+        "price": 115,
+        "image": "danmei-luo-binghe.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Shen Qingqui",
+        "price": 200,
+        "image": "danmei-shen-qingqui.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Wei Ying",
+        "price": 230,
+        "image": "danmei-wei-ying.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Xie Lian",
+        "price": 300,
+        "image": "danmei-xie-lian.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Calcifer",
+        "price": 100,
+        "image": "ghibli-calcifer.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Cat Bus",
+        "price": 150,
+        "image": "ghibli-cat-bus.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Jiji",
+        "price": 100,
+        "image": "ghibli-jiji.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Kaonashi",
+        "price": 200,
+        "image": "ghibli-kaonashi.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Totoro",
+        "price": 200,
+        "image": "ghibli-totoro.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Bunini",
+        "price": 170,
+        "image": "kpop-bunini.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Chimmy",
+        "price": 130,
+        "image": "kpop-chimmy.jpg"
+    },
+    {
+        "id": 19,
+        "name": "TamTam",
+        "price": 300,
+        "image": "kpop-tamtam.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Toram",
+        "price": 500,
+        "image": "kpop-toram.jpg"
+    },
+    {
+        "id": 21,
+        "name": "Wonyoung",
+        "price": 200,
+        "image": "kpop-wonyoung.jpg"
+    },
+    {
+        "id": 22,
+        "name": "Kim Dokja",
+        "price": 259,
+        "image": "manhwa-dokja.jpg"
+    },
+    {
+        "id": 23,
+        "name": "Yoo Joonghyuk",
+        "price": 240,
+        "image": "manhwa-joonghyuk.jpg"
+    },
+    {
+        "id": 24,
+        "name": "Park Moondae",
+        "price": 250,
+        "image": "manhwa-moondae.png"
+    },
+    {
+        "id": 25,
+        "name": "Han Sooyoung",
+        "price": 200,
+        "image": "manhwa-sooyoung.jpg"
+    },
+    {
+        "id": 26,
+        "name": "Yoo Sangah",
+        "price": 200,
+        "image": "manhwa-yoo-sangah.jpg"
+    },
+    {
+        "id": 27,
+        "name": "Bunny",
+        "price": 200,
+        "image": "regular-bunny.jpg"
+    },
+    {
+        "id": 28,
+        "name": "Dragon",
+        "price": 300,
+        "image": "regular-dragon.jpg"
+    },
+    {
+        "id": 29,
+        "name": "Pig",
+        "price": 250,
+        "image": "regular-pig.jpg"
+    },
+    {
+        "id": 30,
+        "name": "Pug",
+        "price": 200,
+        "image": "regular-pug.jpg"
+    },
+    {
+        "id": 31,
+        "name": "Red Panda",
+        "price": 300,
+        "image": "regular-red-panda.jpg"
+    },
+    {
+        "id": 32,
+        "name": "Chococat",
+        "price": 170,
+        "image": "sanrio-chococat.jpg"
+    },
+    {
+        "id": 33,
+        "name": "Hangyodon",
+        "price": 190,
+        "image": "sanrio-hangyodon.jpg"
+    },
+    {
+        "id": 34,
+        "name": "Hello Kitty",
+        "price": 200,
+        "image": "sanrio-hello-kitty.jpg"
+    },
+    {
+        "id": 35,
+        "name": "Keroppi",
+        "price": 180,
+        "image": "sanrio-keroppi.jpg"
+    },
+    {
+        "id": 36,
+        "name": "Kuromi",
+        "price": 270,
+        "image": "sanrio-kuromi.jpg"
+    },
+    {
+        "id": 37,
+        "name": "My Melody",
+        "price": 180,
+        "image": "sanrio-melody.jpg"
+    },
+    {
+        "id": 38,
+        "name": "Mocha",
+        "price": 170,
+        "image": "sanrio-mocha.jpg"
+    },
+    {
+        "id": 39,
+        "name": "Pochacco",
+        "price": 200,
+        "image": "sanrio-pochacco.jpg"
+    },
+    {
+        "id": 40,
+        "name": "Pompompurin",
+        "price": 250,
+        "image": "sanrio-pompompurin.jpg"
+    },
+    {
+        "id": 41,
+        "name": "Diluc",
+        "price": 290,
+        "image": "vg-diluc.png"
+    },
+    {
+        "id": 42,
+        "name": "Kirby",
+        "price": 100,
+        "image": "vg-kirby.jpg"
+    },
+    {
+        "id": 43,
+        "name": "Pikachu",
+        "price": 130,
+        "image": "vg-pikachu.jpg"
+    },
+    {
+        "id": 44,
+        "name": "Venti",
+        "price": 290,
+        "image": "vg-venti.png"
+    },
+    {
+        "id": 45,
+        "name": "Wanderer Cat",
+        "price": 290,
+        "image": "vg-wanderer-cat.jpg"
+    }
+]
